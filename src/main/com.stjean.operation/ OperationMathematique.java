@@ -4,8 +4,6 @@ public boolean estPositif(int nombre) {
 }
 
 
-
-
 public int factoriel(int nombre) {
     if (nombre == 0) return 1;
     int result = 1;
